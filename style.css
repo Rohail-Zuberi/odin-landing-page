@@ -114,3 +114,18 @@ button {
     height: auto;
     width: 440px;
 }
+
+.section3 {
+    background-color: #E5E7EB;
+    padding: 200px 300px 200px;
+    color: #1f2937;
+    font-size: 26px;
+    font-weight: lighter;
+}
+
+.s3-author {
+    text-align: right;
+    font-weight: bold;
+    display: block;
+    max-width: 1100.48px;
+}
