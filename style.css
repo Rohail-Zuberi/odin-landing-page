@@ -9,6 +9,7 @@ body {
 
 .section1 {
     background-color: #1F2937;
+    padding: 10px 300px 100px;
 }
 
 a {
@@ -29,7 +30,8 @@ button {
 .header {
     display: flex;
     align-items: center;
-    padding: 10px;
+    justify-content: space-between;
+    margin-bottom: 100px;
 }
 
 .logo {
@@ -44,7 +46,12 @@ button {
     color: #E5E7EB;
     font-size: 18px;
     display: flex;
-    gap: 10px;
+    gap: 20px;
+}
+
+.section1-content {
+    display: flex;
+    justify-content: space-between;
 }
 
 .heading {
@@ -56,4 +63,10 @@ button {
 .intro {
     font-size: 18px;
     color: #E5E7EB;
+    max-width: 600px;
+}
+
+.section1-pic {
+    height: auto;
+    width: 550px;
 }
