@@ -17,7 +17,7 @@ a {
     color: inherit;
 }
 
-button {
+.s1-button {
     background-color: #3882f6;
     color: #F9FAF8;
     border: none;
@@ -128,4 +128,40 @@ button {
     font-weight: bold;
     display: block;
     max-width: 1100.48px;
+}
+
+.section4 {
+    padding: 150px 300px 150px;
+}
+
+.s4-container {
+    background-color: #3882f6;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    padding: 40px 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.s4-heading {
+    font-size: 20px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.s4-content {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.s4-button {
+    background-color: #3882f6;
+    color: #F9FAF8;
+    border: 2px solid;
+    border-color: #F9FAF8;
+    border-radius: 8px;
+    padding: 5px 30px;
+    font-size: 18px;
+    font-weight: bold;
 }
