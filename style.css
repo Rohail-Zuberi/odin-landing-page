@@ -70,3 +70,13 @@ button {
     height: auto;
     width: 550px;
 }
+
+.section2-heading {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0px;
+}
